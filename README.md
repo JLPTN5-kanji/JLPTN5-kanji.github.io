@@ -1,2 +1,4 @@
 # JLPTN5-kanji.github.io
-JLPT N5 Kanji
+
+# notes:
+VrDisplay.js can be added as a child camera of orbitalCamera
